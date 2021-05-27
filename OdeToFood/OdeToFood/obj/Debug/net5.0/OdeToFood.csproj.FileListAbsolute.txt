@@ -38,3 +38,4 @@ W:\ProgrammingCodes\ASP.NET-Core\OdeToFood - Scott Allen\OdeToFoodSecond\OdeToFo
 W:\ProgrammingCodes\ASP.NET-Core\OdeToFood - Scott Allen\OdeToFoodSecond\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 W:\ProgrammingCodes\ASP.NET-Core\OdeToFood - Scott Allen\OdeToFoodSecond\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
 W:\ProgrammingCodes\ASP.NET-Core\OdeToFood - Scott Allen\OdeToFoodSecond\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.CopyComplete
+W:\ProgrammingCodes\ASP.NET-Core\OdeToFood - Scott Allen\OdeToFoodSecond\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\List.cshtml.g.cs
